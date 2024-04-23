@@ -1,5 +1,13 @@
 # README
 
+## Membros
+
+- César Shoity Kumakura | Github: CesarKumakura	RA: 23.01564-0 
+
+- Felipe Carillo | Github: FelipeCarillo RA: 23.00765-6      
+
+- Felipe Costa Muniz | Github: felip-000 RA: 23.01459-8
+
 ## Continuous Integration com GitHub Actions
 
 Este repositório utiliza GitHub Actions para implementar testes de Continuous Integration (CI) automatizados.
