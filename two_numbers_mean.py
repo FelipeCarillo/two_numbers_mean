@@ -1,7 +1,7 @@
 class TwoNumbersSum:
     num1: float
     num2: float
-    
+
     def __init__(self, num1: float, num2: float):
         self.num1 = num1
         self.num2 = num2
